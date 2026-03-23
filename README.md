@@ -22,4 +22,4 @@ This Python script tracks the price of an Amazon product. It checks the price at
 4. Run the script:
 
 ```bash
-python script_name.py
+python amzn-scrap.py
